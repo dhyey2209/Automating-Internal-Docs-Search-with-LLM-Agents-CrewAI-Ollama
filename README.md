@@ -1,4 +1,4 @@
-# AI Agent for Internal Docs
+# Automating Internal Docs Search with LLM Agents: CrewAI + Ollama
 
 Turn dense internal documentation into a conversational, searchable experience: Using CrewAI for multi-agent workflows and Ollama for local LLM inference.
 
