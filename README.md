@@ -2,4 +2,4 @@
 
 Turn dense internal documentation into a conversational, searchable experience: Using CrewAI for multi-agent workflows and Ollama for local LLM inference.
 
-Full write-up: [Read the blog post](https://dhyey-devops.hashnode.dev/automating-internal-docs-search-with-llm-agents-crewai-ollama)
+Full write-up: [Read the blog post]([https://dhyey-devops.hashnode.dev/automating-internal-docs-search-with-llm-agents-crewai-ollama](https://dhyey-project-portfolio.hashnode.dev/automating-internal-docs-search-with-llm-agents-crewai-ollama))
